@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "parrilla de suspensión delantera",
+    "numero_parte": "5Q0407151C",
+    "precio": 27000,
+    "imagen_url": "https://renfor.com.ar/wp-content/uploads/2020/07/kit-x-2-parrilla-suspension-renault-megane-trc-D_NQ_NP_798438-MLA27368244681_052018-F.jpg",
+    "chasis": "9BWAG4126FT599135"
+  },
+  {
+    "nombre": "brazo de suspensión",
+    "numero_parte": "1K0407151BC",
+    "precio": 18000,
+    "imagen_url": "https://blog.kroftools.com/wp-content/uploads/2024/11/braco-de-suspensao-1200x675.jpg",
+    "chasis": "9BWAG4126FT599135"
+  },
+  {
+    "nombre": "pastillas de freno delanteras",
+    "numero_parte": "8V0698151F",
+    "precio": 9500,
+    "imagen_url": "https://tiendamotorysa.com/wp-content/uploads/2022/03/A0004203802.jpg",
+    "chasis": "9BWZZZ376GT512999"
+  },
+  {
+    "nombre": "amortiguador trasero",
+    "numero_parte": "1K0513025T",
+    "precio": 14500,
+    "imagen_url": "https://acdn-us.mitiendanube.com/stores/001/812/330/products/amorttras206corv-120011-efa7410145d7563ca816787349553392-1024-1024.jpg",
+    "chasis": "9BWZZZ376GT512999"
+  }
+]
