@@ -27,8 +27,8 @@ function App() {
     setInput('');
     setWaiting(true);
 
-    const res = await axios.post('http://localhost:3001/api/query', { message: input });
-    //const res = await axios.post('/api/query', { message: input });
+    //const res = await axios.post('http://localhost:3001/api/query', { message: input });
+    const res = await axios.post('/api/query', { message: input });
 
     setTimeout(() => {
       const botMsg = {
