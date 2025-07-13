@@ -6,7 +6,7 @@ function App() {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [waiting, setWaiting] = useState(false);
-  const [carrito, setCarrito] = useState([]);
+  const [, setCarrito] = useState([]);
   const [lastFoundItem, setLastFoundItem] = useState(null);
   const [esperandoConfirmacion, setEsperandoConfirmacion] = useState(false);
   const [esperandoOtraBusqueda, setEsperandoOtraBusqueda] = useState(false);
